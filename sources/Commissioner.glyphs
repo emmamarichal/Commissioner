@@ -493511,6 +493511,146 @@ width = 0;
 unicode = 0;
 },
 {
+glyphname = lineseparator;
+layers = (
+{
+layerId = "1549F9F0-9C47-49C4-93D3-D9E048604B59";
+width = 600;
+},
+{
+layerId = "51C6A73B-16C4-41E4-9D4A-F590BB930F37";
+width = 600;
+},
+{
+layerId = "8AB5AD06-5176-40A9-AE27-DD846BC69980";
+width = 600;
+},
+{
+layerId = "DD7F8760-F7A7-4482-AF8A-8FD93F25A5F7";
+width = 600;
+},
+{
+layerId = "343D30E8-74E9-4519-9793-D2D33018C9B5";
+width = 600;
+},
+{
+layerId = "1E586BCE-7672-4541-95D2-E6220BD99751";
+width = 600;
+},
+{
+layerId = "549BC674-D936-456E-BA8B-A5C1BC394D0C";
+width = 600;
+},
+{
+layerId = "D69DA095-001D-40D2-B5FF-B7CE8B9A727E";
+width = 600;
+},
+{
+layerId = "83833DDA-71ED-446C-A74A-B237CE006706";
+width = 600;
+},
+{
+layerId = "31578A47-A650-44FC-A56A-1A19FFCC7FA5";
+width = 600;
+},
+{
+layerId = "A35B2DC7-4FF9-4B2C-BD03-7F8E719AFFEF";
+width = 600;
+},
+{
+layerId = "BC264FD1-8586-4488-B838-A62E3DE9CFBD";
+width = 600;
+},
+{
+layerId = "7F9508FF-2C65-4645-B61A-40C2FDBFAEB5";
+width = 600;
+},
+{
+layerId = "E8F7E8F4-AD9B-473E-8893-EB5B69444405";
+width = 600;
+},
+{
+layerId = "B503585B-9E86-45AA-BA71-A38DF6707413";
+width = 600;
+},
+{
+layerId = "22813554-62D7-4836-ABA1-4CFC8B4846D6";
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+layers = (
+{
+layerId = "1549F9F0-9C47-49C4-93D3-D9E048604B59";
+width = 600;
+},
+{
+layerId = "51C6A73B-16C4-41E4-9D4A-F590BB930F37";
+width = 600;
+},
+{
+layerId = "8AB5AD06-5176-40A9-AE27-DD846BC69980";
+width = 600;
+},
+{
+layerId = "DD7F8760-F7A7-4482-AF8A-8FD93F25A5F7";
+width = 600;
+},
+{
+layerId = "343D30E8-74E9-4519-9793-D2D33018C9B5";
+width = 600;
+},
+{
+layerId = "1E586BCE-7672-4541-95D2-E6220BD99751";
+width = 600;
+},
+{
+layerId = "549BC674-D936-456E-BA8B-A5C1BC394D0C";
+width = 600;
+},
+{
+layerId = "D69DA095-001D-40D2-B5FF-B7CE8B9A727E";
+width = 600;
+},
+{
+layerId = "83833DDA-71ED-446C-A74A-B237CE006706";
+width = 600;
+},
+{
+layerId = "31578A47-A650-44FC-A56A-1A19FFCC7FA5";
+width = 600;
+},
+{
+layerId = "A35B2DC7-4FF9-4B2C-BD03-7F8E719AFFEF";
+width = 600;
+},
+{
+layerId = "BC264FD1-8586-4488-B838-A62E3DE9CFBD";
+width = 600;
+},
+{
+layerId = "7F9508FF-2C65-4645-B61A-40C2FDBFAEB5";
+width = 600;
+},
+{
+layerId = "E8F7E8F4-AD9B-473E-8893-EB5B69444405";
+width = 600;
+},
+{
+layerId = "B503585B-9E86-45AA-BA71-A38DF6707413";
+width = 600;
+},
+{
+layerId = "22813554-62D7-4836-ABA1-4CFC8B4846D6";
+width = 600;
+}
+);
+unicode = 8233;
+},
+{
 color = 8;
 glyphname = anoteleia;
 layers = (
