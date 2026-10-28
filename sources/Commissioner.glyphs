@@ -755501,7 +755501,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2019 The Commissioner Project Authors (github.com/kosbarts/Commissioner)";
+value = "Copyright 2019 The Commissioner Project Authors (https://github.com/kosbarts/Commissioner)";
 }
 );
 },
@@ -755516,20 +755516,20 @@ value = "Kostas Bartsokas";
 },
 {
 key = designerURL;
-value = "http://www.kostasbartsokas.com";
+value = "https://www.kostasbartsokas.com";
 },
 {
 key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
@@ -755542,7 +755542,7 @@ value = "Kostas Bartsokas";
 },
 {
 key = manufacturerURL;
-value = "http://www.kostasbartsokas.com";
+value = "https://www.kostasbartsokas.com";
 },
 {
 key = trademarks;
@@ -755556,10 +755556,6 @@ value = "Commissioner is a trademark of Kostas Bartsokas";
 {
 key = vendorID;
 value = IDKB;
-},
-{
-key = versionString;
-value = "Version 1.012";
 }
 );
 stems = (
