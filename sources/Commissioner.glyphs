@@ -1,17 +1,6 @@
 {
 .appVersion = "3532";
 .formatVersion = 3;
-DisplayStrings = (
-"/parenleft.case/parenleft.case/parenright.case/parenright.case/braceleft.case/braceleft.case/braceleft.case/braceleft.case/braceleft.case/braceleft.case/braceleft.case/braceleft.case/endash.case/endash.case/endash.case/endash.case/emdash.case/emdash.case/emdash.case/emdash.case/guillemetright.case/guillemetright.case/guillemetright.case/guillemetright.case/guilsinglleft.case/guilsinglleft.case/guilsinglleft.case/guilsinglleft.case/guilsinglright.case/guilsinglright.case/guilsinglright.case/guilsinglright.case/at.case/at.case/at.case/at.case",
-"Α/Alpha.calt EΕ/Epsilon.calt Η/Eta.calt Ι/Iota.calt Ο/Omicron.calt Υ/Upsilon.calt ΩΩ/Omega.calt/Iotadieresis.calt/Upsilondieresis.calt",
-"T4HF/G.ss01/Gbreve.ss01/Gcaron.ss01/Gcircumflex.ss01/Gcommaaccent.ss01/Gdotaccent.ss01/Gmacron.ss01",
-"ҽҽҽҽҽҽҽҽҿҿҿҿҿҿҿҿ",
-"0123456789
-/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf",
-"ї ı/_yi-cy_dieresis1/yi-cy.calt1  /yi-cy.calt2  ї
-/circumflexcomb_hookabovecomb",
-"̉"
-);
 axes = (
 {
 name = Weight;
@@ -503834,7 +503823,7 @@ nodes = (
 );
 }
 );
-width = 1326;
+width = 920;
 },
 {
 color = 5;
